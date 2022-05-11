@@ -1,0 +1,22 @@
+{
+  "name": "js-coins",
+  "version": "1.0.0",
+  "description": "This is a little coin machine example I made using the [three.js](https://threejs.org/) \r Javascript 3D library. I used [Physijs](http://chandlerprall.github.io/Physijs/) \r for the physics. The cabinet and coin models I created in [Blender](https://www.blender.org/) .\r I used a SMAA shader for edge smoothing to improve performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickeyUK/js-coins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MickeyUK/js-coins/issues"
+  },
+  "homepage": "https://github.com/MickeyUK/js-coins#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
